@@ -44,12 +44,13 @@ DOMAIN,content-developerprofiles-pa.googleapis.com
 DOMAIN-KEYWORD,developerprofiles
 
 DOMAIN-SUFFIX,ai.com
-DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,claude
 
+#https://github.com/deardeer7/custom-clash-rules/blob/main/specials.list
+#https://github.com/deardeer7/custom-clash-rules/blob/main/openAI.list
 # openAI
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,ai.com
@@ -57,8 +58,9 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-KEYWORD,openai
-# payment
-DOMAIN-SUFFIX,stripe.com
 # register
 DOMAIN-SUFFIX,arkoselabs.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+# claude
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
