@@ -1,3 +1,6 @@
+############################
+OpenAi+Gemini+Claude  # bing 走 Microsoft 的 ai
+############################
 # https://raw.githubusercontent.com/Repcz/Tool/X/Clash/Rules/OpenAI.list
 DOMAIN,api.statsig.com
 DOMAIN,browser-intake-datadoghq.com
