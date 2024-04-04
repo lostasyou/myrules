@@ -38,6 +38,7 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN-KEYWORD,openaicom-api
 
 # Gemini
+DOMAIN,ai.google.dev
 DOMAIN,generativelanguage.googleapis.com
 DOMAIN-KEYWORD,generativelanguage
 DOMAIN,colab.research.google.com
