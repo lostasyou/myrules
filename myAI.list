@@ -39,6 +39,7 @@ DOMAIN-KEYWORD,openaicom-api
 
 # Gemini
 DOMAIN,ai.google.dev
+DOMAIN-KEYWORD,aistudio
 DOMAIN,generativelanguage.googleapis.com
 DOMAIN-KEYWORD,generativelanguage
 DOMAIN,colab.research.google.com
