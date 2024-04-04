@@ -67,3 +67,6 @@ DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 # claude
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+
+# DeepSeek CN but use Proxy
+DOMAIN-SUFFIX,deepseek.com
