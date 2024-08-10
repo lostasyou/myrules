@@ -67,7 +67,7 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,challenges.cloudflare.com
+#DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,chatgpt.com
 # register
@@ -81,4 +81,4 @@ DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,deepseek.com
 
 #Real GPT4
-DOMAIN-SUFFIX,waadri.top
+#DOMAIN-SUFFIX,waadri.top
