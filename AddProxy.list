@@ -1,45 +1,45 @@
 ##########################################
 手动添加走代理Proxy  # AddProxy
 ##########################################
-  - DOMAIN-SUFFIX,流量消耗器.tk
-  - DOMAIN-SUFFIX,laomoe.com
-  - DOMAIN-SUFFIX,duangks.com
-  - DOMAIN-SUFFIX,proof.ovh.us
-  - DOMAIN-SUFFIX,edis.at
-  - DOMAIN-SUFFIX,tomys.top
-  - DOMAIN-SUFFIX,anyknew.com
-  - DOMAIN-SUFFIX,fofa.info
-  - DOMAIN-SUFFIX,nosec.org
-  - DOMAIN-SUFFIX,wenshushu.cn
-  - DOMAIN-SUFFIX,jsdelivr.net
-  - DOMAIN-SUFFIX,mtalk.google.com
-  - DOMAIN-SUFFIX,ipleak.net
-  - DOMAIN-SUFFIX,fsoufsou.com
+DOMAIN-SUFFIX,流量消耗器.tk
+DOMAIN-SUFFIX,laomoe.com
+DOMAIN-SUFFIX,duangks.com
+DOMAIN-SUFFIX,proof.ovh.us
+DOMAIN-SUFFIX,edis.at
+DOMAIN-SUFFIX,tomys.top
+DOMAIN-SUFFIX,anyknew.com
+DOMAIN-SUFFIX,fofa.info
+DOMAIN-SUFFIX,nosec.org
+DOMAIN-SUFFIX,wenshushu.cn
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,mtalk.google.com
+DOMAIN-SUFFIX,ipleak.net
+DOMAIN-SUFFIX,fsoufsou.com
 
-  - DOMAIN-SUFFIX,ping0.cc
-  - DOMAIN-SUFFIX,ipinfo.io
-  - DOMAIN-SUFFIX,ipjiance.com
-  - DOMAIN-SUFFIX,ip123.in
-  - DOMAIN-SUFFIX,fast.com
-  - DOMAIN-KEYWORD,speedtest.com
-  - DOMAIN-KEYWORD,speedtest
+DOMAIN-SUFFIX,ping0.cc
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,ipjiance.com
+DOMAIN-SUFFIX,ip123.in
+DOMAIN-SUFFIX,fast.com
+DOMAIN-KEYWORD,speedtest.com
+DOMAIN-KEYWORD,speedtest
 
 #vps
-  - DOMAIN-SUFFIX,alice.ws
-  - DOMAIN-SUFFIX,alicenetworks.net
-  - DOMAIN-SUFFIX,yxvm.com
-  - DOMAIN-SUFFIX,ffy.com
-  - DOMAIN-SUFFIX,henghost.com
-  - DOMAIN-SUFFIX,niihost.com
-  - DOMAIN-KEYWORD,niihost
-  - DOMAIN-SUFFIX,cloudflare.com
-  - DOMAIN-SUFFIX,iove.tech
-  - DOMAIN-SUFFIX,us.kg
+DOMAIN-SUFFIX,alice.ws
+DOMAIN-SUFFIX,alicenetworks.net
+DOMAIN-SUFFIX,yxvm.com
+DOMAIN-SUFFIX,ffy.com
+DOMAIN-SUFFIX,henghost.com
+DOMAIN-SUFFIX,niihost.com
+DOMAIN-KEYWORD,niihost
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,iove.tech
+DOMAIN-SUFFIX,us.kg
 
-  - DOMAIN-SUFFIX,sfanqiangdang
-  - DOMAIN-SUFFIX,privnote.com
-  - DOMAIN-SUFFIX,yhjf.cc
-  - DOMAIN-SUFFIX,wolai.com
-  - DOMAIN-KEYWORD,xn--9kqs15ei25a
-  - DOMAIN-KEYWORD,nodeseek
-  - DOMAIN-KEYWORD,nodeloc
+DOMAIN-SUFFIX,sfanqiangdang
+DOMAIN-SUFFIX,privnote.com
+DOMAIN-SUFFIX,yhjf.cc
+DOMAIN-SUFFIX,wolai.com
+DOMAIN-KEYWORD,xn--9kqs15ei25a
+DOMAIN-KEYWORD,nodeseek
+DOMAIN-KEYWORD,nodeloc
